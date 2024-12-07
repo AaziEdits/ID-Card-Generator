@@ -1,5 +1,6 @@
-# ID-Card-Generator
-CBSE Class 12th Computer Science Project - ID Card Generator
+# ID-Card Generator
+### CBSE Class 12th Computer Science Project
+#
 
 This project is for the students of Computer Science studying in Class 12th under Central Board of Secondary Education.
 
@@ -8,7 +9,9 @@ It also stores the information in the form of a QR code, which can be scanned th
 
 The program is based in python programming language and uses the following libraries:
 
-- [pillow]
-- [pymysql]
-- [qrcode]
-- [pandas]
+- pillow
+- pymysql
+- qrcode
+- pandas
+
+The database is stored at backend through MySQL.
